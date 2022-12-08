@@ -1,4 +1,5 @@
 .hello {
-  color: red;
+  color: purple;
+  background: url('./icon.png');
 }
 
